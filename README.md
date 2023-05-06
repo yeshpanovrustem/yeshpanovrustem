@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshpanovrustem)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshpanovrustem&theme=default&show_icons=true)
+
+![Codewars](https://github.r2v.ch/codewars?user=yeshpanov.rustem&name=true&top_languages=true&stroke=%23000000&theme=light&hide_clan=true)
 
 <!--
 **yeshpanovrustem/yeshpanovrustem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
