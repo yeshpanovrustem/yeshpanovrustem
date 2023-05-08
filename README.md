@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshpanovrustem&theme=default&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshpanovrustem&theme=default&show_icons=true) -->
 
 ![Codewars](https://github.r2v.ch/codewars?user=yeshpanov.rustem&name=true&top_languages=true&stroke=%23000000&theme=light&hide_clan=true)
 
