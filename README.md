@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Contributions
 ![](https://raw.githubusercontent.com/yeshpanovrustem/yeshpanovrustem/output/github-contribution-grid-snake.svg)
